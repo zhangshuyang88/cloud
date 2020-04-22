@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <!--    新导入的颜色-->
+    <!-- 白色 -->
+    <color name="color_white">#FFFFFFFF</color>
+    <!-- 浅灰色 -->
+    <color name="color_gray">#EDEDED</color>
+    <!-- 最浅浅灰色 -->
+    <color name="color_gray_a">#F5F5F5</color>
+    <!-- 中灰色 -->
+    <color name="color_medium_gray">#cdcdcd</color>
+    <!-- 深灰色 -->
+    <color name="color_grays">#999999</color>
+    <!-- 红色 -->
+    <color name="color_red">#ff0000</color>
+    <!-- 黑色 -->
+    <color name="color_black">#242424</color>
+    <!-- 暗黑色 -->
+    <color name="color_furvous">#575757</color>
+    <!-- 蓝色 -->
+    <color name="color_blue">#0000ff</color>
+    <!-- 绿色 -->
+    <color name="color_green">#00ff00</color>
+    <!-- 黄色 -->
+    <color name="color_orange">#ffff00</color>
+    <!-- 紫色 -->
+    <color name="color_purple">#9370DB</color>
+    <!-- 象牙 -->
+    <color name="color_ivory">#6B8E23</color>
+    <!-- （浅褐色） -->
+    <color name="color_beige">#FFFFF0</color>
+    <!-- 卡其布 -->
+    <color name="color_khaki">#F0E68C</color>
+    <!-- 透明 -->
+    <color name="transparent">@android:color/transparent</color>
+    <!-- 半透明 -->
+    <color name="translucent">#E0000000</color>
+    <color name="tlt">#40000000</color>
+    <!-- 滚动选择高度、速度、时间的橘色 -->
+    <color name="scroll_select_color">#E97B45</color>
+
+    <color name="light_title_bg">#e4e4e4</color>
+
+    <color name="dark_grey">#9E9E9E</color>
+
+    <color name="light_grey">#EFEFEF</color>
+
+    <color name="no_fly_airport">#F5707D</color>
+
+    <color name="no_fly_special_area">#5DB7F4</color>
+
+    <color name="main_title_pressed">#303335</color>
+    <color name="main_title_normal">#222527</color>
+    <color name="circle_confirm_pressed">#32b1e9</color>
+
+    <color name="title_info_gray">#ADAAAE</color>
+    <color name="item_checked">#32D1E9</color>
+
+</resources>
